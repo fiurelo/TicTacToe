@@ -1,0 +1,358 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe"
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps;;C:\Users\Yurii\AppData\Local\spicetify;C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Yurii\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-21\bin\javac.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Main class:	Interfaccia.java
+Add classpath:	C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Yurii\Desktop\TicTacToe\src\tictactoe\tictactoe.exe;C:\Users\Yurii\Desktop\TicTacToe\AbsoluteLayout-RELEASE210.jar" Interfaccia.java
+Args length:	153/32768 chars
+Exit code:	0
