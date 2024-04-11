@@ -29,6 +29,7 @@ un pareggio
 PLAYER CONTRO PLAYER XL (PVP XL)
 Questa modalità è la medesima alla modalità precedente, solo che si ha a
 disposizione una griglia di gioco 5x5.
+
 PLAYER CONTRO INTELLIGENZA ARTIFICIALE (PVAI)
 Questa modalità è la più interessante del gioco.
 Si tratta di una partita tra un giocatore ﬁsico e un computer che funge da secondo
@@ -36,13 +37,11 @@ giocatore. Nella nostra versione del programma, la vittoria contro il computer �
 impossibile, il tutto è grazie ad un algoritmo chiamato MiniMax che calcola
 esattamente la posizione migliore per eseguire la mossa in base alla precedente
 svolta dal giocatore ﬁsico. Si ha a disposizione una griglia 3x3.
+
 Inﬁne, per aiutare i giocatori a vincere una partita e per dare un regolamento
 uciale del gioco, è stato creato appositamente un documento che raccoglie tutte
-queste informazioni. É possibile visionarlo mediante questo tasto:
-Modalità 2: Progetto EXE
-E’ possibile avviare il gioco mediante la versione EXE. Non è necessario utilizzare
-NetBeans per poterci giocare, ma è suciente avviare l’eseguibile ed avere JDK
-installato nel proprio PC.
+queste informazioni.
+
 Ecco il funzionamento del nostro gioco, semplice, intuitivo adatto a tutte le età ed
 ottimo per combattere la noia!
 Creatori:
