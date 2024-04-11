@@ -3,21 +3,6 @@ _________________________________________________________________________
 Per poter usufruire del programma, è possibile agire in due diverse modalità:
 compilando dal progetto di NetBeans oppure avviando semplicemente il
 programma exe.
-Modalità 1: Progetto NetBeans
-Passo 1: Aprire Netbeans
-Passo 2: Ottenere il progetto
-Passo 3: Importare il progetto
-In alto a sinistra, cliccare il tasto sinistro su “File”, dopodiché selezionare “Import
-Project” e inﬁne “From ZIP”.
-Dopo aver selezionato “From ZIP” si aprirà questa ﬁnestra:
-Si recupera la posizione del progetto scaricato, nel nostro caso, sul Desktop.
-Cliccare il pulsante “Browse” e selezionare il progetto.
-Passo 4: Compilare il progetto
-Se il progetto è importato correttamente, nella parte sinistra del programma
-troveremo una situazione simile, dove sono presenti diverse cartelle.
-Per il corretto funzionamento del programma è necessario premere il pulsante
-Play (Run project):
-Verrà visualizzata questa ﬁnestra che rappresenta l’interfaccia del gioco:
 Abbiamo tre modalità di gioco che sono rappresentate dai relativi pulsanti:
 1. Player contro Player (PVP): in cui il giocatore 1 è la X e il giocatore 2 è la O,
 2. Player contro Player XL (PVP XL): medesimo concetto, in versione 5x5.
@@ -28,17 +13,19 @@ NB. il punto di domanda sulla destra, è una raccolta di regole del gioco Tris d
 sono presenti anche alcuni suggerimenti per poter vincere una partita.
 Vediamo nel dettaglio le varie modalità:
 PLAYER CONTRO PLAYER (PVP)
-La schermata si presenta in questo modo:
+
 E’ molto semplice, i due giocatori giocano come avessero davanti un foglio di
 carta. Un giocatore fa la sua mossa, l’altro controbatte ﬁnché non vince uno dei
 due.
+
 Nell’ipotesi che uno dei due giocatori vinca,
 viene visualizzata questa ﬁnestra, dove viene
 chiesto se si volesse giocare di nuovo o meno,
 visualizzando inoltre il punteggio dei giocatori:
 Nel caso di pareggio, ricompare la stessa
 ﬁnestra, indicando invece, che si è verifciato
-un pareggio:
+un pareggio
+
 PLAYER CONTRO PLAYER XL (PVP XL)
 Questa modalità è la medesima alla modalità precedente, solo che si ha a
 disposizione una griglia di gioco 5x5.
